@@ -64,3 +64,4 @@ The `ios` and `android` folder are gitignored in the project by default as they 
 ---
 
 Demo assets are from [lucide.dev](https://lucide.dev/)
+# SignlyApp
